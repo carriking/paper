@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass over africa
 
 # author
-Jane Smythe
-carri with an i
+Jane Smythe, U of somewhere else
+carri with an i, UoM
 
 # intro
 We present aircraft measurements of stuff over africa
