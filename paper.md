@@ -1,8 +1,9 @@
 # Title
-Aging of biomass over africa
+Simulations Aging of biomass over africa
 
 # author
 carri with an i
+Jane Smythe
 
 # intro
 We present aircraft measurements of stuff over africa
