@@ -1,8 +1,9 @@
 # Title
-Aircrat measurements of biomass over africa
+Aircraft measurements and simulations of biomass over africa
 
 # author
 carri with an i
+Jane Smythe
 
 # intro
 We present aircraft measurements of stuff over africa
@@ -14,3 +15,7 @@ Something something
 
 Really uncertain, dunno stuff
 measurements weird, bad, very big
+
+# Simulations
+Simulate evolution os particles sizes
+Yad adadad
