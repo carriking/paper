@@ -23,3 +23,5 @@ Yad adadad
 # methods
 compared stuff with a model. A detailed model, no less.
 
+# results
+all good, no bad!
