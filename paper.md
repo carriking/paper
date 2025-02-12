@@ -1,5 +1,5 @@
 # Title
-Aging of biomass over africa
+Aircrat measurements of biomass over africa
 
 # author
 carri with an i
