@@ -19,3 +19,7 @@ measurements weird, bad, very big
 # Simulations
 Simulate evolution os particles sizes
 Yad adadad
+
+# methods
+compared stuff with a model. A detailed model, no less.
+
